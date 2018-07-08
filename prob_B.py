@@ -1,3 +1,8 @@
+"""
+  icpc_2018_problem_B
+  author: Tiger
+  date：2018/07/06
+"""
 while(True):
     n, m, t, p = map(int, input().split())
     if(n==0 and m==0 and t==0 and p==0):
