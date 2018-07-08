@@ -1,3 +1,8 @@
+"""
+  icpc_2018_problem_A
+  author: Tiger
+  date：2018/07/06
+"""
 while(True):
     n=int(input())
     if(n==0):
